@@ -1,0 +1,11 @@
+{
+  "adventures": [
+    {
+      "id": "01",
+      "lang": "pt",
+      "title": "A Cidadela do Caos",
+      "jsonUrl": "https://raw.githubusercontent.com/usuario/rpg_stories/main/pt/01_pt.json",
+      "coverUrl": "https://raw.githubusercontent.com/usuario/rpg_stories/main/pt/01_pt.webp"
+    }
+  ]
+}
